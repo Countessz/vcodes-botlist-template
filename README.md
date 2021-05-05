@@ -1,6 +1,7 @@
-# vCodes.xyz
-<a href="https://vcodes.xyz/dc" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
-**NPM:** [npmjs.com/package/vcodes.js](https://www.npmjs.com/package/vcodes.js)<br>
+# Rainbow Studios Vcodes
+**Dont ask me why i put the name as vcodes i also dont know my mind is stuck**
+<a href="https://discord.gg/yPN49wdqMc" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
+**NPM:** [Click Me](https://www.npmjs.com/package/vcodes.js)<br>
 
   > <h3 style="background-color: #000;">Change Log</h3>
   > <p class="subtitle"> Some errors fixed.</p>
@@ -17,13 +18,13 @@
  <br><br>
  <br><br>
  
-  > [English] <p class="subtitle"> We are not charities, you have conditions for use. Refuse the terms and open a private message group for us; "Didn't you share it for people to use?" Do not ask questions like.</p>
+ > [English] <p class="subtitle"> We are not charities, you have conditions for use. Refuse the terms and open a private message group for us; "Didn't you share it for people to use?" Do not ask questions like.</p>
   > [Türkçe] <p class="subtitle"> Biz hayır kurumu değiliz, kullanım için şartlarınız vardır. Şartları reddedip bize özel mesaj grubu açıp; "insanlar kullansın diye paylaşmadınız mı?" gibi sorular yöneltmeyin.</p>
   
   
 > # Developers
-<a href="https://github.com/iClaudette">👤 Claudette</a><br>
-<a href="https://github.com/tunarjs">👤 Tunar</a>
+<a href="https://github.com/TajuModding">👤 Tejas</a><br>
+<a href="https://discord.gg/yPN49wdqMc">👤 Rainbow Studios</a>
 
 
 ## English
@@ -48,9 +49,9 @@
 
 <br><br><br><br><br><br>
 # Demo
-<a href="https://vcodes.xyz">vcodes.xyz</a>
+<a href="https://earthlist.glitch.me">click me boi</a>
 
 ## 💨 Run the projects
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/vcodes-xyz/bot-list)<br>
-[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://repl.it/github/vcodes-xyz/bot-list)<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcodes-xyz/bot-list)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/TeamRainbowDevs/vcodes-botlist-template)<br>
+[![Run on Repl.it](https://repl.it/badge/github/TeamRainbowDevs/vcodes-botlist-template)](https://repl.it/github/TeamRainbowDevs/vcodes-botlist-template)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
