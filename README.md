@@ -1,4 +1,5 @@
-# vCodes.xyz
+# Rainbow Studios Vcodes
+**Dont ask me why i put the name as vcodes i also dont know my mind is stuck**
 <a href="https://discord.gg/yPN49wdqMc" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
 **Support:** [Click Me](https://discord.gg/yPN49wdqMc) <br>
 **NPM:** [Click Me](https://discord.gg/yPN49wdqMc)<br>
